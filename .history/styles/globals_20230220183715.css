@@ -1,0 +1,11 @@
+:root {
+  background-attachment: fixed;
+  background: linear-gradient(-45deg, #eaa8c7, #96cad1, #ce96d7);
+  background-size: 500% 500%;
+  animation: gradient-bg 20s ease infinite;
+}
+
+
+    
+    
+}

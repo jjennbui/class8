@@ -1,0 +1,14 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 140px;
+    gap: 550px;
+    
+
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}

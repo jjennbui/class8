@@ -1,0 +1,12 @@
+.main{
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5rem;
+  min-height: 20vh;
+  margin: 90px;
+ 
+
+}
